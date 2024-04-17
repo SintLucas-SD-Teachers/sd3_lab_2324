@@ -1,19 +1,19 @@
-# sd3_crea_code_exercises
+# WHAT IS LAB?
 
-Creative Coding lesson exercises, SD3, P11
+### Where you develop your own experiments
+ - Is there something you would like to learn that you didn’t have a chance in other classes?
+ - Do you want to dive deeper into an old project?
+ - Something interactive for your portfolio?
+ - Learn something and teach it to others during Interweek (workshop)
 
-* Lesson 1
-  * Introduction to Creative Coding
-  * Introduction to Processing
+### How does it work?
 
-* Lesson 2
-  * Programming basics
-  * Event Handling, Debugging
+- 1 daypart a week  x  8 weeks
+- Individual or group project 
+- max 2 people
+- 1 or 2 different projects 
+- ex: 5 + 3 dayparts
+- Define your own timeline
+- Sprints (SCRUM)
 
-* Lesson 3
-  * Framework basics
-  * Basic OOP, and Agents
-
-* Lesson 4
-  * Randomness and advanced techniques 
-  * Project introduction
+Find all info on the [Portal page](https://sintlucasedunl.sharepoint.com/sites/M1283/SitePages/English.aspx)
